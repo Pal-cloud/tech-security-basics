@@ -104,7 +104,98 @@ Eso es básicamente una **criptomoneda**. Es como dinero normal, pero completame
 
 ---
 
-## 💭 Preguntas frecuentes
+## � ¿Cómo se relaciona esto con Tech Security Basics?
+
+Los conceptos que acabas de leer sobre criptomonedas usan **exactamente las mismas tecnologías** que aprenderás en nuestro curso de seguridad. ¡Es increíble!
+
+### 🔐 **Módulo 1: Hashing** → **🪙 Bitcoin Mining**
+```
+🎓 En el curso aprendes:          🪙 En Bitcoin funciona igual:
+"Hola" → hash123abc              Block #800000 → 00000123abc
+"Hola!" → xyz789def              Block #800001 → 00000789def
+```
+- **Curso**: Aprenderás que cambiar 1 letra cambia todo el hash
+- **Bitcoin**: Los mineros buscan hashes que empiecen con muchos ceros
+- **¿Por qué es igual?** ¡Usan la **misma función SHA-256**!
+
+### 🔑 **Módulo 2: Criptografía** → **💳 Tu Wallet**
+```
+🎓 En el curso aprendes:          🪙 Tu wallet de Bitcoin:
+Clave privada: abc123           Clave privada: abc123 (SECRETA)
+Clave pública: def456           Dirección Bitcoin: 1A2B3C4D
+Firmas digitales               Firmar transacciones
+```
+- **Curso**: Aprenderás a crear y verificar firmas digitales
+- **Bitcoin**: Tu wallet hace exactamente lo mismo para gastar Bitcoin
+- **¿Por qué es igual?** ¡Es la **misma criptografía de clave pública**!
+
+### 🛡️ **Módulo 3: Validación** → **📝 Smart Contracts**
+```
+🎓 En el curso aprendes:          🪙 Los smart contracts:
+if (usuario.edad >= 18)         if (usuario.saldo >= 100)
+    permitir_acceso()               permitir_transaccion()
+else                            else  
+    rechazar()                      rechazar()
+```
+- **Curso**: Aprenderás a validar datos antes de procesarlos
+- **DeFi**: Los contratos validan fondos antes de prestar dinero
+- **¿Por qué es igual?** ¡Son las **mismas validaciones de seguridad**!
+
+### 📊 **Módulo 4: Logging** → **🔍 Blockchain Explorer**
+```
+🎓 En el curso aprendes:          🪙 Blockchain es como:
+[2024-01-15] Usuario123          [Block 800000] Alice → Bob: 1 BTC
+  enviió $50 a Usuario456          [Block 800001] Charlie → David: 0.5 BTC
+[2024-01-16] Falló login           [Block 800002] Eva → Frank: 2 BTC
+```
+- **Curso**: Aprenderás a crear logs inmutables para auditoría
+- **Blockchain**: Es el sistema de logs más grande del mundo
+- **¿Por qué es igual?** ¡Ambos registran eventos que **nunca se pueden borrar**!
+
+### ⚖️ **Módulo 5: GDPR/Privacidad** → **🕵️ Monedas Privadas**
+```
+🎓 En el curso aprendes:          🪙 Monero hace:
+Datos personales → Anónimo       Alice → ??? → Bob (importe oculto)
+Juan Pérez → Usuario_48291       Dirección real → Dirección fantasma  
+```
+- **Curso**: Aprenderás técnicas para proteger la privacidad de usuarios
+- **Monero**: Usa criptografía avanzada para hacer transacciones privadas
+- **¿Por qué es igual?** ¡Usan las **mismas técnicas de anonimización**!
+
+### 🚨 **Módulo 6: Mejores Prácticas** → **🔒 Seguridad DeFi**
+```
+🎓 En el curso aprendes:          🪙 Los protocolos DeFi:
+✅ Auditar código               ✅ Auditorías de smart contracts  
+✅ Backup de datos             ✅ Múltiples copias del blockchain
+✅ Autenticación 2FA           ✅ Multisig wallets (múltiples firmas)
+```
+- **Curso**: Aprenderás las mejores prácticas de seguridad
+- **DeFi**: Aplica exactamente las mismas prácticas pero con millones de dólares
+- **¿Por qué es igual?** ¡Son los **mismos principios de seguridad**!
+
+---
+
+## 🤯 ¡La Conexión Sorprendente!
+
+### 💡 **Dato Increíble**
+Bitcoin no inventó nuevas tecnologías. Simplemente combinó de forma genial tecnologías de seguridad que ya existían:
+- ✅ Hashing (años 1970s)
+- ✅ Criptografía de clave pública (años 1980s)  
+- ✅ Firmas digitales (años 1990s)
+- ✅ Sistemas distribuidos (años 2000s)
+
+### 🎯 **Lo que significa para ti**
+Cuando completes **Tech Security Basics**, entenderás:
+- 🔍 Por qué Bitcoin es seguro (usa hashing y criptografía)
+- 💰 Cómo funcionan las wallets (claves públicas/privadas)
+- 🛡️ Por qué los smart contracts a veces fallan (validaciones)
+- 📊 Cómo funciona la transparencia de blockchain (logging)
+- 🕵️ Por qué algunas monedas son privadas (anonimización)
+- 🚨 Por qué algunos protocolos se hackean (malas prácticas)
+
+---
+
+## �💭 Preguntas frecuentes
 
 ### ❓ **"¿Las criptomonedas son legales?"**
 - **En la mayoría de países: SÍ**, incluyendo España, México, Colombia, etc.
