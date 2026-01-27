@@ -176,7 +176,8 @@ Los ejemplos en este repositorio son **únicamente educativos**. En producción:
 
 ¿Tienes preguntas? ¡No dudes en contactar!
 
-- Pal
+- 💼 **LinkedIn**: [Tu Nombre](https://www.linkedin.com/in/palomagsal/)
+- 🐙 **GitHub**: [tu-usuario](https://github.com/Pal-cloud)
 
 ---
 
