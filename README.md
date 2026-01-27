@@ -1,7 +1,22 @@
 # Tech Security Basics 🔐
-## Guía Práctica de Seguridad y Aspectos Legales para Principiantes en Tech
+## Guía Práctica de Seguridad y Aspectos Legales para Principiantes ### 📁 Estructura del Proyecto
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+```
+tech-security-basics/
+├── 📂 examples/                        # Módulos educativos completos
+│   ├── 01_password_hashing.py         # 🔐 Hashing seguro de contraseñas
+│   ├── 02_input_validation.py         # 🛡️ Validación y sanitización
+│   ├── 03_jwt_authentication.py       # 🔑 Autenticación JWT
+│   ├── 04_security_logging.py         # 📝 Logging de seguridad
+│   ├── 05_gdpr_compliance.py          # ⚖️ Aspectos legales GDPR
+│   └── 06_security_best_practices.py  # 🚨 Mejores prácticas
+├── 🐍 demo.py                         # Demo interactivo principal
+├── ⚙️ config.py                       # Configuración del proyecto
+├── 🪙 CRYPTO-CONNECTION.md            # Conexión con criptomonedas y blockchain
+├── 🔧 requirements.txt                # Dependencias Python
+├── 📜 LICENSE                         # Licencia MIT
+└── 📖 README.md                       # Esta guía
+```thon](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-Educational-yellow.svg)]()
 
@@ -107,7 +122,6 @@ tech-security-basics/
 ├── � demo.py                         # Demo interactivo principal
 ├── ⚙️ config.py                       # Configuración del proyecto
 ├── 🔧 requirements.txt                # Dependencias Python
-├── 📜 LICENSE                         # Licencia MIT
 └── 📖 README.md                       # Esta guía
 ```
 
@@ -144,6 +158,8 @@ colorama==0.4.6       # Colores en terminal multiplataforma
 3. **Lee los comentarios** del código para entender el "por qué"
 4. **Experimenta** modificando los parámetros y observa los resultados
 5. **Completa los ejercicios** al final de cada módulo
+
+> 🪙 **¿Sabías que?** Los conceptos de este curso son los mismos que hacen funcionar Bitcoin y las criptomonedas. [Ver conexión con crypto →](CRYPTO-CONNECTION.md)
 
 ### 💡 Roadmap Futuro
 
