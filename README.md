@@ -12,9 +12,7 @@ tech-security-basics/
 │   └── 06_security_best_practices.py  # 🚨 Mejores prácticas
 ├── 🐍 demo.py                         # Demo interactivo principal
 ├── ⚙️ config.py                       # Configuración del proyecto
-├── 🪙 CRYPTO-CONNECTION.md            # Conexión con criptomonedas y blockchain
 ├── 🔧 requirements.txt                # Dependencias Python
-├── 📜 LICENSE                         # Licencia MIT
 └── 📖 README.md                       # Esta guía
 ```thon](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -159,8 +157,6 @@ colorama==0.4.6       # Colores en terminal multiplataforma
 4. **Experimenta** modificando los parámetros y observa los resultados
 5. **Completa los ejercicios** al final de cada módulo
 
-> 🪙 **¿Sabías que?** Los conceptos de este curso son los mismos que hacen funcionar Bitcoin y las criptomonedas. [Ver conexión con crypto →](CRYPTO-CONNECTION.md)
-
 ### 💡 Roadmap Futuro
 
 #### Versión 2.0
@@ -174,6 +170,8 @@ colorama==0.4.6       # Colores en terminal multiplataforma
 - ☁️ **Cloud Security**: AWS, Azure, GCP best practices
 - 🔗 **Blockchain**: Conceptos de seguridad en Web3
 - 🎮 **Gamificación**: Challenges y certificaciones
+
+> 🪙 **¿Te interesa crypto?** Descubre cómo este curso se conecta con Bitcoin y blockchain → [CRYPTO-CONNECTION.md](CRYPTO-CONNECTION.md)
 
 
 ### 🤝 Contribuir
