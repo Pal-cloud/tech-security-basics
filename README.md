@@ -102,6 +102,16 @@ tech-security-basics/
 └── 📖 README.md              # Esta guía
 ```
 
+#### Dependencias Mínimas
+```
+cryptography==41.0.7  # Criptografía moderna
+bcrypt==4.1.2         # Hashing seguro de passwords
+pyjwt==2.8.0          # JSON Web Tokens
+requests==2.31.0      # HTTP requests seguros
+python-dotenv==1.0.0  # Gestión de variables de entorno
+colorama==0.4.6       # Colores en terminal multiplataforma
+```
+
 ### 🌟 Características Destacadas
 
 - ✅ **Código comentado** línea por línea
