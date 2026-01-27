@@ -1,20 +1,7 @@
 # Tech Security Basics 🔐
-## Guía Práctica de Seguridad y Aspectos Legales para Principiantes ### 📁 Estructura del Proyecto
+## Guía Práctica de Seguridad y Aspectos Legales para Principiantes en Tech
 
-```
-tech-security-basics/
-├── 📂 examples/                        # Módulos educativos completos
-│   ├── 01_password_hashing.py         # 🔐 Hashing seguro de contraseñas
-│   ├── 02_input_validation.py         # 🛡️ Validación y sanitización
-│   ├── 03_jwt_authentication.py       # 🔑 Autenticación JWT
-│   ├── 04_security_logging.py         # 📝 Logging de seguridad
-│   ├── 05_gdpr_compliance.py          # ⚖️ Aspectos legales GDPR
-│   └── 06_security_best_practices.py  # 🚨 Mejores prácticas
-├── 🐍 demo.py                         # Demo interactivo principal
-├── ⚙️ config.py                       # Configuración del proyecto
-├── 🔧 requirements.txt                # Dependencias Python
-└── 📖 README.md                       # Esta guía
-```thon](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-Educational-yellow.svg)]()
 
