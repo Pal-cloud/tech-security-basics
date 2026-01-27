@@ -51,7 +51,7 @@ Este repositorio te guiará paso a paso por los conceptos fundamentales de **seg
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/tech-security-basics.git
+git clone https://github.com/Pal-cloud/tech-security-basics.git
 cd tech-security-basics
 
 # 2. Crea un entorno virtual
@@ -73,33 +73,34 @@ python examples/01_password_hashing.py
 Cada módulo incluye ejemplos que puedes ejecutar inmediatamente:
 
 ```bash
-# Prueba el sistema de autenticación
-python modules/authentication/jwt_example.py
+# Ejecutar módulos individuales
+python examples/01_password_hashing.py     # Aprende hashing seguro
+python examples/02_input_validation.py     # Validación de datos
+python examples/03_jwt_authentication.py   # Autenticación JWT
+python examples/04_security_logging.py     # Logging de seguridad
+python examples/05_gdpr_compliance.py      # Aspectos legales
+python examples/06_security_best_practices.py # Mejores prácticas
 
-# Valida datos de entrada
-python modules/validation/input_validator.py
-
-# Experimenta con encriptación
-python modules/crypto/encryption_demo.py
+# O ejecutar el demo interactivo completo
+python demo.py
 ```
 
 ### 📁 Estructura del Proyecto
 
 ```
 tech-security-basics/
-├── 📂 modules/                 # Módulos educativos
-│   ├── 📂 crypto/             # Criptografía
-│   ├── 📂 validation/         # Validación de datos
-│   ├── 📂 authentication/     # Autenticación
-│   ├── 📂 logging/            # Logging seguro
-│   ├── 📂 gdpr/               # Aspectos legales
-│   └── 📂 security/           # Mejores prácticas
-├── 📂 examples/               # Ejemplos paso a paso
-├── 📂 tests/                  # Tests unitarios
-├── 📂 docs/                   # Documentación adicional
-├── 🔧 requirements.txt        # Dependencias
-├── ⚙️ config.py              # Configuración
-└── 📖 README.md              # Esta guía
+├── 📂 examples/                        # Módulos educativos completos
+│   ├── 01_password_hashing.py         # 🔐 Hashing seguro de contraseñas
+│   ├── 02_input_validation.py         # 🛡️ Validación y sanitización
+│   ├── 03_jwt_authentication.py       # 🔑 Autenticación JWT
+│   ├── 04_security_logging.py         # 📝 Logging de seguridad
+│   ├── 05_gdpr_compliance.py          # ⚖️ Aspectos legales GDPR
+│   └── 06_security_best_practices.py  # 🚨 Mejores prácticas
+├── � demo.py                         # Demo interactivo principal
+├── ⚙️ config.py                       # Configuración del proyecto
+├── 🔧 requirements.txt                # Dependencias Python
+├── 📜 LICENSE                         # Licencia MIT
+└── 📖 README.md                       # Esta guía
 ```
 
 #### Dependencias Mínimas
@@ -176,8 +177,8 @@ Los ejemplos en este repositorio son **únicamente educativos**. En producción:
 
 ¿Tienes preguntas? ¡No dudes en contactar!
 
-- 💼 **LinkedIn**: [Tu Nombre](https://www.linkedin.com/in/palomagsal/)
-- 🐙 **GitHub**: [tu-usuario](https://github.com/Pal-cloud)
+- 💼 **LinkedIn**: [Pal](https://www.linkedin.com/in/palomagsal/)
+- 🐙 **GitHub**: [Pal-cloud](https://github.com/Pal-cloud)
 
 ---
 
