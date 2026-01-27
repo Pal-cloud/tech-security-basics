@@ -9,6 +9,14 @@
 
 Este repositorio te guiará paso a paso por los conceptos fundamentales de **seguridad informática** y **aspectos legales** más importantes que todo desarrollador debe conocer, usando **Python** de forma práctica y sencilla.
 
+### 🎥 Video Introductorio
+
+¿Prefieres una introducción visual? ¡Mira este video antes de empezar!
+
+[![Video Introductorio - Tech Security Basics](https://img.youtube.com/vi/EUwXrjiJu3E/maxresdefault.jpg)](https://www.youtube.com/watch?v=EUwXrjiJu3E)
+
+> 📹 **[Ver en YouTube: Introducción a Tech Security Basics](https://www.youtube.com/watch?v=EUwXrjiJu3E)** - Una visión general del curso y lo que aprenderás
+
 ### 📚 Contenido del Curso
 
 #### 🔒 **Módulo 1: Fundamentos de Criptografía**
@@ -184,4 +192,4 @@ Los ejemplos en este repositorio son **únicamente educativos**. En producción:
 
 **⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub! ⭐**
 
-*"La seguridad no es un producto, es un proceso"* - Bruce Schneier
+*"La seguridad no es un producto, es un proceso"* - Bruce Schneier (Criptógrafo y experto en informática)
