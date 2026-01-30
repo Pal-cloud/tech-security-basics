@@ -1,4 +1,4 @@
-# 🪙 ¿Qué son las Criptomonedas? Guía Simple para Principiantes
+# 💰 ¿Qué son las Criptomonedas? Guía Simple para Principiantes
 
 ## 💰 Empezando por lo básico: ¿Qué es una criptomoneda?
 
@@ -58,7 +58,7 @@ Eso es básicamente una **criptomoneda**. Es como dinero normal, pero completame
 
 ---
 
-## 🪙 Los "tipos" más famosos de criptomonedas
+## 💰 Los "tipos" más famosos de criptomonedas
 
 ### 🥇 **Bitcoin (BTC)**
 - **La primera y más famosa**
@@ -72,7 +72,7 @@ Eso es básicamente una **criptomoneda**. Es como dinero normal, pero completame
 - Como una computadora mundial donde nadie es el dueño
 - Base de la mayoría de proyectos crypto
 
-### 🪙 **Stablecoins (USDT, USDC)**
+### 💵 **Stablecoins (USDT, USDC)**
 - **Siempre valen $1 dólar**
 - Perfectas para transferencias sin volatilidad
 - Respaldadas por dólares reales en bancos
