@@ -104,7 +104,7 @@ Eso es básicamente una **criptomoneda**. Es como dinero normal, pero completame
 
 ---
 
-## � ¿Cómo se relaciona esto con Tech Security Basics?
+## 🔗 ¿Cómo se relaciona esto con Tech Security Basics?
 
 Los conceptos que acabas de leer sobre criptomonedas usan **exactamente las mismas tecnologías** que aprenderás en nuestro curso de seguridad. ¡Es increíble!
 
@@ -193,9 +193,13 @@ Cuando completes **Tech Security Basics**, entenderás:
 - 🕵️ Por qué algunas monedas son privadas (anonimización)
 - 🚨 Por qué algunos protocolos se hackean (malas prácticas)
 
+### 🚀 **Bonus: Perspectiva única en el mercado laboral**
+La mayoría de personas conoce **O** criptomonedas **O** seguridad informática.
+**Tú conocerás ambos** → ¡Eso te hace súper valioso!
+
 ---
 
-## �💭 Preguntas frecuentes
+## 💭 Preguntas frecuentes
 
 ### ❓ **"¿Las criptomonedas son legales?"**
 - **En la mayoría de países: SÍ**, incluyendo España, México, Colombia, etc.
